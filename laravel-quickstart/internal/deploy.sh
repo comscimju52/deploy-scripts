@@ -41,5 +41,4 @@ COMPOSER_IMAGE="3dsinteractive/composer:7.1"
 
 source /bitnami/jenkins/1001/deploy-scripts/base/deploy-base.sh
 
-
 run
